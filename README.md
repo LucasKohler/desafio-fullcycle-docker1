@@ -1,7 +1,7 @@
 # Desafio docker 1 Full
 ## Docker
 
-### 1.1 - Go Lang e Docker
+### Go Lang e Docker
 
 O objetivo deste desafio é criar uma imagem Docker que, ao ser executada, exibe a mensagem "Full Cycle Rocks!!". A imagem precisa ter menos de 2MB.
 
